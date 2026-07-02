@@ -10,13 +10,13 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=C9184A&center=true&vCenter=true&width=680&lines=%5BSYS%5D+Booting+AI+Engineering+Runtime...;%5BAGENT%5D+LangGraph+Orchestration+→+ONLINE;%5BRAG%5D+Hybrid+Retrieval+Engine+→+READY;%5BDEPLOY%5D+Docker+Compose+Mesh+→+RUNNING;%5BCI%2FCD%5D+GitHub+Actions+Pipeline+→+PASSING;%5BSTATUS%5D+Accepting+Mission-Critical+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=5B8DEF&center=true&vCenter=true&width=680&lines=%5BSYS%5D+Booting+AI+Engineering+Runtime...;%5BAGENT%5D+LangGraph+Orchestration+→+ONLINE;%5BRAG%5D+Hybrid+Retrieval+Engine+→+READY;%5BDEPLOY%5D+Docker+Compose+Mesh+→+RUNNING;%5BCI%2FCD%5D+GitHub+Actions+Pipeline+→+PASSING;%5BSTATUS%5D+Accepting+Mission-Critical+Problems)](https://git.io/typing-svg)
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/──%20GitHub-Santhosh--p653%20──-C9184A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santhosh-p653)
-[![Portfolio](https://img.shields.io/badge/──%20Portfolio-LIVE%20──-C9184A?style=for-the-badge&logo=vercel&logoColor=white)](https://Santhosh-p653.github.io/portfolio/)
-[![HuggingFace](https://img.shields.io/badge/──%20HuggingFace-Demo%20──-C9184A?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/santhosh11042007/shoppyai)
+[![GitHub](https://img.shields.io/badge/──%20GitHub-Santhosh--p653%20──-5B8DEF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santhosh-p653)
+[![Portfolio](https://img.shields.io/badge/──%20Portfolio-LIVE%20──-5B8DEF?style=for-the-badge&logo=vercel&logoColor=white)](https://Santhosh-p653.github.io/portfolio/)
+[![HuggingFace](https://img.shields.io/badge/──%20HuggingFace-Demo%20──-5B8DEF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/santhosh11042007/shoppyai)
 
 </div>
 
@@ -157,7 +157,7 @@ SCANNING PROJECT REGISTRY...  4 SYSTEMS FOUND
 ### `[SYS-01]` 🕵️ deepfake-agentic-ai
 
 ![Status](https://img.shields.io/badge/STATUS-🟢%20DEPLOYED-1a0d0f?style=flat-square&color=1a0d0f&labelColor=1a0d0f)
-[![Repo](https://img.shields.io/badge/REPO-VIEW%20SOURCE-C9184A?style=flat-square&logo=github&logoColor=white)](https://github.com/Santhosh-p653/deepfake-agentic-ai)
+[![Repo](https://img.shields.io/badge/REPO-VIEW%20SOURCE-5B8DEF?style=flat-square&logo=github&logoColor=white)](https://github.com/Santhosh-p653/deepfake-agentic-ai)
 
 **Problem:** Deepfake media is proliferating faster than detection tooling can scale. Existing solutions are monolithic and brittle — one model, one failure point, no auditability.
 
@@ -193,7 +193,7 @@ CI/CD:  GitHub Actions  ·  network audit  ·  logging validation
 ### `[SYS-02]` 🧠 rag-multimodal-assistant
 
 ![Status](https://img.shields.io/badge/STATUS-🟢%20DEPLOYED-1a0d0f?style=flat-square&color=1a0d0f&labelColor=1a0d0f)
-[![Repo](https://img.shields.io/badge/REPO-VIEW%20SOURCE-C9184A?style=flat-square&logo=github&logoColor=white)](https://github.com/Santhosh-p653/rag-multimodal-assistant)
+[![Repo](https://img.shields.io/badge/REPO-VIEW%20SOURCE-5B8DEF?style=flat-square&logo=github&logoColor=white)](https://github.com/Santhosh-p653/rag-multimodal-assistant)
 
 **Problem:** Enterprise manuals exist in a graveyard of PDFs and PPTX files. Users either search manually or get generic LLM hallucinations. No voice support for Indic languages. No agentic troubleshooting.
 
@@ -245,8 +245,8 @@ CI/CD:  GitHub Actions  ·  ruff  ·  black  ·  bandit  ·  detect-secrets
 ### `[SYS-03]` 🛒 shoppyai
 
 ![Status](https://img.shields.io/badge/STATUS-🚀%20LIVE-1a0d0f?style=flat-square&color=1a0d0f&labelColor=1a0d0f)
-[![Repo](https://img.shields.io/badge/REPO-VIEW%20SOURCE-C9184A?style=flat-square&logo=github&logoColor=white)](https://github.com/Santhosh-p653/shoppyai)
-[![Demo](https://img.shields.io/badge/DEMO-LIVE%20↗-C9184A?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/santhosh11042007/shoppyai)
+[![Repo](https://img.shields.io/badge/REPO-VIEW%20SOURCE-5B8DEF?style=flat-square&logo=github&logoColor=white)](https://github.com/Santhosh-p653/shoppyai)
+[![Demo](https://img.shields.io/badge/DEMO-LIVE%20↗-5B8DEF?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/santhosh11042007/shoppyai)
 
 **Problem:** E-commerce discovery still relies on keyword search. Users describe what they want in natural language — the product catalog doesn't speak that.
 
@@ -276,8 +276,8 @@ CI/CD:  GitHub Actions
 ### `[SYS-04]` 📄 doc2site
 
 ![Status](https://img.shields.io/badge/STATUS-🟢%20DEPLOYED-1a0d0f?style=flat-square&color=1a0d0f&labelColor=1a0d0f)
-[![Repo](https://img.shields.io/badge/REPO-VIEW%20SOURCE-C9184A?style=flat-square&logo=github&logoColor=white)](https://github.com/Santhosh-p653/doc2site)
-[![Live](https://img.shields.io/badge/LIVE-PORTFOLIO%20↗-C9184A?style=flat-square&logo=vercel&logoColor=white)](https://santhosh-p653.github.io/doc2site/Santhosh.html)
+[![Repo](https://img.shields.io/badge/REPO-VIEW%20SOURCE-5B8DEF?style=flat-square&logo=github&logoColor=white)](https://github.com/Santhosh-p653/doc2site)
+[![Live](https://img.shields.io/badge/LIVE-PORTFOLIO%20↗-5B8DEF?style=flat-square&logo=vercel&logoColor=white)](https://santhosh-p653.github.io/doc2site/Santhosh.html)
 
 **Problem:** Markdown documentation has no navigable web presence without a full CMS or framework overhead.
 
@@ -311,8 +311,8 @@ Stack:  JavaScript · Node.js · GitHub Actions · GitHub Pages
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santhosh-p653&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9184A&icon_color=C9184A&text_color=c9d1d9&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-p653&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9184A&text_color=c9d1d9&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santhosh-p653&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5B8DEF&icon_color=5B8DEF&text_color=c9d1d9&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-p653&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5B8DEF&text_color=c9d1d9&langs_count=8" />
 
 <br>
 
@@ -326,11 +326,11 @@ Stack:  JavaScript · Node.js · GitHub Actions · GitHub Pages
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Santhosh-p653&theme=tokyonight&hide_border=true&background=0d1117&ring=C9184A&fire=FF4D6D&currStreakLabel=C9184A" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Santhosh-p653&theme=tokyonight&hide_border=true&background=0d1117&ring=5B8DEF&fire=8B5CF6&currStreakLabel=5B8DEF" />
 
 <br><br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-p653&theme=react-dark&hide_border=true&bg_color=0d1117&color=C9184A&line=00d9ff&point=ffffff)](https://github.com/Santhosh-p653)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-p653&theme=react-dark&hide_border=true&bg_color=0d1117&color=5B8DEF&line=00d9ff&point=ffffff)](https://github.com/Santhosh-p653)
 
 </div>
 
@@ -367,11 +367,11 @@ Stack:  JavaScript · Node.js · GitHub Actions · GitHub Pages
 
 [![LinkedIn](https://img.shields.io/badge/──%20LinkedIn%20──-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/──%20GitHub%20──-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Santhosh-p653)
-[![Portfolio](https://img.shields.io/badge/──%20Portfolio%20──-C9184A?style=for-the-badge&logo=vercel&logoColor=white)](https://Santhosh-p653.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/──%20Portfolio%20──-5B8DEF?style=for-the-badge&logo=vercel&logoColor=white)](https://Santhosh-p653.github.io/portfolio/)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Santhosh-p653&style=for-the-badge&color=C9184A&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Santhosh-p653&style=for-the-badge&color=5B8DEF&label=PROFILE+VIEWS)
 
 <br>
 
