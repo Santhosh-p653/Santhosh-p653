@@ -15,7 +15,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/──%20GitHub-Santhosh--p653%20──-C9184A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santhosh-p653)
-[![Portfolio](https://img.shields.io/badge/──%20Portfolio-LIVE%20──-C9184A?style=for-the-badge&logo=vercel&logoColor=white)](https://santhosh-p653.github.io/doc2site/Santhosh.html)
+[![Portfolio](https://img.shields.io/badge/──%20Portfolio-LIVE%20──-C9184A?style=for-the-badge&logo=vercel&logoColor=white)](https://Santhosh-p653.github.io/portfolio/)
 [![HuggingFace](https://img.shields.io/badge/──%20HuggingFace-Demo%20──-C9184A?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/santhosh11042007/shoppyai)
 
 </div>
@@ -367,7 +367,7 @@ Stack:  JavaScript · Node.js · GitHub Actions · GitHub Pages
 
 [![LinkedIn](https://img.shields.io/badge/──%20LinkedIn%20──-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/──%20GitHub%20──-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Santhosh-p653)
-[![Portfolio](https://img.shields.io/badge/──%20Portfolio%20──-C9184A?style=for-the-badge&logo=vercel&logoColor=white)](https://santhosh-p653.github.io/doc2site/Santhosh.html)
+[![Portfolio](https://img.shields.io/badge/──%20Portfolio%20──-C9184A?style=for-the-badge&logo=vercel&logoColor=white)](https://Santhosh-p653.github.io/portfolio/)
 
 <br>
 
