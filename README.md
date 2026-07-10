@@ -6,7 +6,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  SANTHOSH  ·  AI/ML Engineering Runtime  ·  ACTIVE    ║
+║  SANTHOSH  ·  AI/ML Engineering Runtime  ·  ACTIVE                ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -34,7 +34,7 @@ $ whoami
 ┌─────────────────────────────────────────────────────────────────────┐
 │  IDENTITY BLOCK                                                     │
 │  ─────────────────────────────────────────────────────────────────  │
-│  Role    :  AI / ML Engineer                                        │
+│  Role    :  AI / ML Engineer (2nd Year CSE — Karpagam Institute)    │
 │  Focus   :  Agentic systems · RAG pipelines · Production MLOps      │
 │  Output  :  Deployed systems — not prototypes                       │
 │  Mantra  :  "Make it work. Make it right. Make it fast."            │
@@ -51,25 +51,25 @@ $ whoami
 
 ```
 ╔════════════════════════════════════════════════════════════════════════╗
-║                  SANTHOSH ENGINEER OS  ·  RUNTIME SPEC               ║
+║                  SANTHOSH ENGINEER OS  ·  RUNTIME SPEC                   ║
 ╠══════════════╦═════════════════════════════════════════════════════════╣
-║   INPUT      ║  Problem statements · Research papers · Broken systems ║
+║   INPUT      ║  Problem statements · Research papers · Broken systems   ║
 ╠══════════════╬═════════════════════════════════════════════════════════╣
-║  PROCESSOR   ║  Agentic reasoning (LangGraph)                         ║
-║              ║  System design thinking → microservice decomposition   ║
-║              ║  Architecture-first, code-second approach              ║
+║  PROCESSOR   ║  Agentic reasoning (LangGraph)                          ║
+║              ║  System design thinking → microservice decomposition    ║
+║              ║  Architecture-first, code-second approach               ║
 ╠══════════════╬═════════════════════════════════════════════════════════╣
-║   MEMORY     ║  Qdrant / ChromaDB vector stores                       ║
-║              ║  BM25 sparse retrieval + dense embedding fusion        ║
-║              ║  Past project patterns as reusable mental models       ║
+║   MEMORY     ║  Qdrant / ChromaDB vector stores                        ║
+║              ║  BM25 sparse retrieval + dense embedding fusion         ║
+║              ║  Past project patterns as reusable mental models        ║
 ╠══════════════╬═════════════════════════════════════════════════════════╣
-║   OUTPUT     ║  Containerized · CI/CD-wired · Security-hardened       ║
-║              ║  JSON-logged · Rate-limited · Production-ready         ║
+║   OUTPUT     ║  Containerized · CI/CD-wired · Security-hardened        ║
+║              ║  JSON-logged · Rate-limited · Production-ready          ║
 ╠══════════════╬═════════════════════════════════════════════════════════╣
-║  OS TRAITS   ║  ✓ Docker from commit one                              ║
-║              ║  ✓ GitHub Actions in every repo                        ║
-║              ║  ✓ Agents / API / ML as separate bounded services      ║
-║              ║  ✓ Security baked in — never bolted on                 ║
+║  OS TRAITS   ║  ✓ Docker from commit one                               ║
+║              ║  ✓ GitHub Actions in every repo                         ║
+║              ║  ✓ Agents / API / ML as separate bounded services       ║
+║              ║  ✓ Security baked in — never bolted on                  ║
 ╚══════════════╩═════════════════════════════════════════════════════════╝
 ```
 
@@ -83,11 +83,11 @@ $ whoami
 LOADING MODULE REGISTRY...  ████████████████████████  100%
 ```
 
-</div>
-
 <br>
 
-**`[MODULE 01]`  AI CORE ENGINE**
+**`[MODULE 01]` AI CORE ENGINE**
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,py" />
 
 | Component | Tech | Status |
 |-----------|------|--------|
@@ -98,7 +98,9 @@ LOADING MODULE REGISTRY...  █████████████████�
 
 <br>
 
-**`[MODULE 02]`  DATA & RETRIEVAL LAYER**
+**`[MODULE 02]` DATA & RETRIEVAL LAYER**
+
+<img src="https://skillicons.dev/icons?i=py" />
 
 | Component | Tech | Status |
 |-----------|------|--------|
@@ -109,7 +111,9 @@ LOADING MODULE REGISTRY...  █████████████████�
 
 <br>
 
-**`[MODULE 03]`  BACKEND SYSTEMS**
+**`[MODULE 03]` BACKEND SYSTEMS**
+
+<img src="https://skillicons.dev/icons?i=fastapi,python,postgres" />
 
 | Component | Tech | Status |
 |-----------|------|--------|
@@ -120,7 +124,9 @@ LOADING MODULE REGISTRY...  █████████████████�
 
 <br>
 
-**`[MODULE 04]`  INFRASTRUCTURE & DEVOPS**
+**`[MODULE 04]` INFRASTRUCTURE & DEVOPS**
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux" />
 
 | Component | Tech | Status |
 |-----------|------|--------|
@@ -131,7 +137,9 @@ LOADING MODULE REGISTRY...  █████████████████�
 
 <br>
 
-**`[MODULE 05]`  FRONTEND & UX**
+**`[MODULE 05]` FRONTEND & UX**
+
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs" />
 
 | Component | Tech | Status |
 |-----------|------|--------|
@@ -139,6 +147,8 @@ LOADING MODULE REGISTRY...  █████████████████�
 | Rapid Prototyping | Gradio | 🟢 ACTIVE |
 | Static Generation | Node.js · GitHub Pages | 🟢 ACTIVE |
 | Runtime | Linux | 🟢 ACTIVE |
+
+</div>
 
 ---
 
@@ -159,25 +169,39 @@ SCANNING PROJECT REGISTRY...  4 SYSTEMS FOUND
 ![Status](https://img.shields.io/badge/STATUS-🟢%20DEPLOYED-1a0d0f?style=flat-square&color=1a0d0f&labelColor=1a0d0f)
 [![Repo](https://img.shields.io/badge/REPO-VIEW%20SOURCE-5B8DEF?style=flat-square&logo=github&logoColor=white)](https://github.com/Santhosh-p653/deepfake-agentic-ai)
 
+<img src="https://skillicons.dev/icons?i=py,fastapi,docker,postgres" />
+
 **Problem:** Deepfake media is proliferating faster than detection tooling can scale. Existing solutions are monolithic and brittle — one model, one failure point, no auditability.
 
 **Solution:** Forensic deepfake detection architected as a production microservices mesh.
 
-```
-PIPELINE FLOW:
+```mermaid
+flowchart LR
+    U[Upload] --> API[API Gateway]
+    API --> AG[Agent Orchestrator]
+    AG --> ML[ML Service]
+    ML --> RF[RetinaFace]
+    ML --> XC[Xception CNN]
+    ML --> TR[Transformers]
+    AG --> CH[(ChromaDB)]
+    AG --> PG[(PostgreSQL)]
+    PG --> MI[(MinIO Object Store)]
+    MI --> EX[Auto-Expiry 30d]
 
-  [UPLOAD]──►[API Gateway]──►[Agent Orchestrator]──►[ML Service]
-                                      │                    │
-                               [ChromaDB]◄──────────[RetinaFace]
-                                      │             [Xception CNN]
-                               [PostgreSQL]         [Transformers]
-                                      │
-                               [MinIO Object Store]──►[Auto-Expiry 30d]
+    style U fill:#5B8DEF,stroke:#333,color:#fff
+    style API fill:#1a0d0f,stroke:#5B8DEF,color:#fff
+    style AG fill:#1a0d0f,stroke:#5B8DEF,color:#fff
+    style ML fill:#1a0d0f,stroke:#5B8DEF,color:#fff
 ```
 
-```
-AUDIT TRAIL:
-pending → temp_stored → processing → processed → deleted
+```mermaid
+stateDiagram-v2
+    [*] --> pending
+    pending --> temp_stored
+    temp_stored --> processing
+    processing --> processed
+    processed --> deleted
+    deleted --> [*]
 ```
 
 ```
@@ -188,6 +212,8 @@ CI/CD:  GitHub Actions  ·  network audit  ·  logging validation
 
 > **Architecture:** Multi-Dockerfile services (`Dockerfile.api` / `Dockerfile.agents` / `Dockerfile.ml`) sharing a single `docker-compose.yml`. JSON-structured logging across every module with live Dozzle viewer.
 
+> **Design decision:** `FLAG_FOR_REVIEW` is treated as an honest middle state, not a failure mode — multi-signal weighted aggregation surfaces uncertainty instead of forcing a binary call.
+
 ---
 
 ### `[SYS-02]` 🧠 rag-multimodal-assistant
@@ -195,50 +221,56 @@ CI/CD:  GitHub Actions  ·  network audit  ·  logging validation
 ![Status](https://img.shields.io/badge/STATUS-🟢%20DEPLOYED-1a0d0f?style=flat-square&color=1a0d0f&labelColor=1a0d0f)
 [![Repo](https://img.shields.io/badge/REPO-VIEW%20SOURCE-5B8DEF?style=flat-square&logo=github&logoColor=white)](https://github.com/Santhosh-p653/rag-multimodal-assistant)
 
+<img src="https://skillicons.dev/icons?i=py,fastapi,nextjs,typescript,docker" />
+
 **Problem:** Enterprise manuals exist in a graveyard of PDFs and PPTX files. Users either search manually or get generic LLM hallucinations. No voice support for Indic languages. No agentic troubleshooting.
 
 **Solution:** Production RAG system with hybrid search, voice layer, and LangGraph-powered diagnostic engine.
 
+```mermaid
+flowchart TD
+    A[PDF · DOCX · PPTX · XLSX · TXT] --> B[MarkItDown Parser]
+    B --> C[Chunker + Overlap Windows]
+    C --> D[MiniLM-L6 Embeddings]
+    D --> E[(Qdrant Vector Store)]
 ```
-INGESTION PIPELINE:
 
-  [PDF·DOCX·PPTX·XLSX·TXT]
-         │
-   [MarkItDown Parser]
-         │
-   [Chunker + Overlap Windows]
-         │
-   [MiniLM-L6 Embeddings]
-         │
-   [Qdrant Vector Store]
+```mermaid
+flowchart LR
+    Q[Query] --> M1[Exact Match]
+    M1 --> M2[Family Match]
+    M2 --> M3[Global Match]
+    M1 --> DV[Dense Vector]
+    M2 --> BM[BM25 Sparse]
+    M3 --> RRF[RRF Fusion]
+    DV --> RRF
+    BM --> RRF
+    RRF --> LLM[LLM]
+```
 
+```mermaid
+flowchart LR
+    subgraph eng["English Path"]
+        EA[English Audio] --> W[Whisper STT] --> R1[Response] --> T1[edge-tts]
+    end
+    subgraph indic["Indic Path"]
+        IA[Indic Audio] --> S[Sarvam Saaras v3] --> R2[Response] --> T2[edge-tts]
+    end
+```
 
-RETRIEVAL ENGINE (3-level priority):
-
-  [Query]──►[Exact Match]──►[Family Match]──►[Global Match]
-                │                │                │
-           [Dense Vec]      [BM25 Sparse]    [RRF Fusion]──►[LLM]
-
-
-VOICE LAYER:
-
-  [English Audio]──►[Whisper STT]──►[Response]──►[edge-tts]
-  [Indic Audio]───►[Sarvam Saaras v3]──►[Response]──►[edge-tts]
-
-
+```
 SECURITY STACK:
-
   slowapi rate limiting · MIME-type guards · regex prompt injection
   isolated RAG prompts · 24-test suite (unit + integration + security)
-```
 
-```
 Stack:  Python · FastAPI · LangGraph · Qdrant · BM25 · MiniLM-L6
         Whisper · Sarvam AI · edge-tts · Next.js · TypeScript · Docker
 CI/CD:  GitHub Actions  ·  ruff  ·  black  ·  bandit  ·  detect-secrets
 ```
 
 > **Architecture:** Full-stack monorepo (`backend/` + `frontend/`). Prompt injection filtered at both the regex layer and the LLM system prompt level. Admin upload panel in Next.js.
+
+> **In progress:** Phase 3 hardening — multi-provider LLM key rotation (Gemini → Groq → SambaNova → HF → OpenAI), VLM-based image captioning, parent-child chunking, BGE reranker.
 
 ---
 
@@ -248,20 +280,21 @@ CI/CD:  GitHub Actions  ·  ruff  ·  black  ·  bandit  ·  detect-secrets
 [![Repo](https://img.shields.io/badge/REPO-VIEW%20SOURCE-5B8DEF?style=flat-square&logo=github&logoColor=white)](https://github.com/Santhosh-p653/shoppyai)
 [![Demo](https://img.shields.io/badge/DEMO-LIVE%20↗-5B8DEF?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/santhosh11042007/shoppyai)
 
+<img src="https://skillicons.dev/icons?i=py,docker,gradio" />
+
 **Problem:** E-commerce discovery still relies on keyword search. Users describe what they want in natural language — the product catalog doesn't speak that.
 
 **Solution:** LLM-powered natural language product discovery deployed publicly on Hugging Face Spaces.
 
-```
-ARCHITECTURE:
-
-  [User Query (NL)]──►[Gradio UI Layer (app.py)]
-                              │
-                       [Inference Logic]──►[LLM API]
-                              │
-                       [Data Layer]──►[FAISS / ChromaDB ready]
-                              │
-                       [Docker Container]──►[HF Spaces]
+```mermaid
+flowchart TD
+    U[User Query - Natural Language] --> G[Gradio UI Layer - app.py]
+    G --> IL[Inference Logic]
+    IL --> API[LLM API]
+    IL --> DL[Data Layer]
+    DL --> VDB[FAISS / ChromaDB ready]
+    G --> DK[Docker Container]
+    DK --> HF[HuggingFace Spaces]
 ```
 
 ```
@@ -279,20 +312,19 @@ CI/CD:  GitHub Actions
 [![Repo](https://img.shields.io/badge/REPO-VIEW%20SOURCE-5B8DEF?style=flat-square&logo=github&logoColor=white)](https://github.com/Santhosh-p653/doc2site)
 [![Live](https://img.shields.io/badge/LIVE-PORTFOLIO%20↗-5B8DEF?style=flat-square&logo=vercel&logoColor=white)](https://santhosh-p653.github.io/doc2site/Santhosh.html)
 
+<img src="https://skillicons.dev/icons?i=nodejs,githubactions,js" />
+
 **Problem:** Markdown documentation has no navigable web presence without a full CMS or framework overhead.
 
 **Solution:** Zero-config static site generator with incremental builds and auto-deploy on push.
 
-```
-CI/CD PIPELINE:
-
-  [Markdown Source]
-         │
-   [Node.js Build]──►[HTML + Dark Mode + Search]
-         │
-   [GitHub Actions]──►[GitHub Pages] (on every push)
-         │
-   [Incremental]──►[Only changed files regenerated]
+```mermaid
+flowchart TD
+    A[Markdown Source] --> B[Node.js Build]
+    B --> C[HTML + Dark Mode + Search]
+    C --> D[GitHub Actions]
+    D --> E[GitHub Pages]
+    B --> F[Incremental - only changed files regenerated]
 ```
 
 ```
@@ -307,7 +339,7 @@ Stack:  JavaScript · Node.js · GitHub Actions · GitHub Pages
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║              SYSTEM METRICS  ·  GITHUB TELEMETRY            ║
+║              SYSTEM METRICS  ·  GITHUB TELEMETRY               ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -316,13 +348,14 @@ Stack:  JavaScript · Node.js · GitHub Actions · GitHub Pages
 
 <br>
 
-```
-  UPTIME (Activity)    ██████████████████░░  88%
-  THROUGHPUT (Commits) █████████████████░░░  84%
-  INFRA COVERAGE       ████████████████████  100%  (Docker on all projects)
-  CI/CD COVERAGE       ████████████████████  100%  (Actions on all repos)
-  SECURITY POSTURE     ██████████████████░░  Bandit · detect-secrets enabled
-```
+| Metric | Value |
+|---|---|
+| Deployed production repos | 4 |
+| Independent microservices shipped | 8+ (API · Agents · ML across 2 systems) |
+| CI/CD pipelines maintained | 100% of repos (lint · security scan · deploy) |
+| Containerized services | 100% (Docker/Compose on every project) |
+| Languages in active rotation | Python · TypeScript · JavaScript |
+| Voice/ASR languages supported | English · Tamil · Hindi |
 
 <br>
 
@@ -334,6 +367,8 @@ Stack:  JavaScript · Node.js · GitHub Actions · GitHub Pages
 
 </div>
 
+> Note: the stats/streak/activity widgets above render live from GitHub's public API at view time — they'll always reflect real, current numbers rather than a static snapshot.
+
 ---
 
 ## `$ standards --list`
@@ -342,13 +377,13 @@ Stack:  JavaScript · Node.js · GitHub Actions · GitHub Pages
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  ENGINEERING INVARIANTS                                       ║
+║  ENGINEERING INVARIANTS                                        ║
 ╠═══════════════════════════════════════════════════════════════╣
-║  [✓]  Containerized from commit one — Docker / Compose       ║
-║  [✓]  CI/CD in every repo — lint · security · deploy         ║
-║  [✓]  JSON structured logging — stdout, never print()        ║
-║  [✓]  Security-first APIs — rate limit · MIME guard · scan   ║
-║  [✓]  Separation of concerns — agents ≠ API ≠ ML             ║
+║  [✓]  Containerized from commit one — Docker / Compose        ║
+║  [✓]  CI/CD in every repo — lint · security · deploy          ║
+║  [✓]  JSON structured logging — stdout, never print()         ║
+║  [✓]  Security-first APIs — rate limit · MIME guard · scan    ║
+║  [✓]  Separation of concerns — agents ≠ API ≠ ML              ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -377,7 +412,7 @@ Stack:  JavaScript · Node.js · GitHub Actions · GitHub Pages
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  SANTHOSH.OS  ·  SYSTEM HALT  ·  All services nominal.  ✓      ║
+║  SANTHOSH.OS  ·  SYSTEM HALT  ·  All services nominal.  ✓          ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
